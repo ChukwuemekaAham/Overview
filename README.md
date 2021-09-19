@@ -9,10 +9,10 @@ I’m currently learning Machine-Learning
 
 Skill, Languages and Tools:
 
-Django,
+django,
 python,
 database management; mysql, sqlite,
-machine learning (AWS; sagemaker, lamda, deepRacer, deepComposer, deepLens., Scikit Learn, Tensorflow, Pytorch, numpy, pandas ),
+machine learning (AWS; sagemaker, lamda, deepRacer, deepComposer, deepLens., scikit learn, tensorflow, pytorch, numpy, pandas ),
 bootstrap,
 tailwindcss,
 html5,
@@ -21,7 +21,6 @@ sass,
 javascript (es6),
 figma, 
 adobe illustrator, 
-adobe photoshop,
 canva,
 digital strategy,
 react/react native,
