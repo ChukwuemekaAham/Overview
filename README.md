@@ -32,3 +32,4 @@ notepad,
 cloud computing (AWS, Nobus),
 web server administration, 
 OSes; Linux and Windows. 
+technical documentation 
