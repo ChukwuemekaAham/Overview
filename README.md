@@ -12,7 +12,7 @@ Skill, Languages and Tools:
 django,
 python,
 database management; mysql, sqlite,
-machine learning (AWS; sagemaker, lamda, deepRacer, deepComposer, deepLens., scikit learn, tensorflow, keras, pytorch, numpy, pandas ),
+machine learning (AWS; sagemaker, lamda, deepRacer, deepComposer, deepLens., scikit learn, tensorflow, keras, numpy, pandas ),
 bootstrap,
 tailwindcss,
 html5,
