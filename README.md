@@ -3,7 +3,7 @@
 Hi 👋, I'm Aham Chukwuemeka.
 A fullstack developer
 
-I’m currently learning React Native and Machine Learning (Computer Vision)
+I’m currently learning React Native
 
 📫 How to reach me; ahamchukwuemeka2@gmail.com
 
