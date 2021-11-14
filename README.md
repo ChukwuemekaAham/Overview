@@ -13,7 +13,7 @@ Skill, Languages and Tools:
 - python
 - mysql
 - sqlite
-- machine learning (AWS; sagemaker, lamda, deepLens.,.scikit learn, tensorflow, keras, numpy, pandas )
+- machine learning (AWS; sagemaker, lamda, deepLens.,.scikit learn, tensorflow, keras, matplotlib,  numpy, pandas )
 - bootstrap
 - tailwindcss
 - html5
