@@ -1,19 +1,28 @@
 # Overview
 
 Hi 👋, I'm Aham Chukwuemeka.
-A fullstack developer
+A fullstack cloud developer.
 
-I’m currently learning React Native
+I’m currently learning IaC with Terraform and AWS cloudformation
 
 📫 How to reach me; ahamchukwuemeka2@gmail.com
 
 Skill, Languages and Tools:
 
+- iaas
+- openstack
+- serverless
+- microservices at scale
+- travis ci
+- dockers
+- kubernetes
+- terraform
 - django
 - python
+- nodejs
 - mysql
-- sqlite
-- machine learning (AWS; sagemaker, lamda, deepLens...scikit learn, tensorflow, keras, matplotlib,  numpy, pandas )
+- postgrel
+- machine learning (tensorflow, sagemaker, lambda, deeplens)
 - bootstrap
 - tailwindcss
 - html5
@@ -26,7 +35,7 @@ Skill, Languages and Tools:
 - canva
 - digital marketing
 - react
-- react native (android)
+- nextjs
 - redux
 - visual studio code
 - jupyter notebook
